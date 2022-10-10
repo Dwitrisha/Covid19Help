@@ -24,9 +24,16 @@
   margin-left: 7rem;
   margin-right: 7rem;
   text-align: justify;
-  color: rgba(16, 112, 190, 0.856);
+  color: rgba(168, 174, 179, 0.856);
   font-family: "Century Gothic", sans-serif;
   font-weight: bold;
+}
+
+.text{
+  color: rgba(168, 174, 179, 0.856);
+  text-align: center;
+  margin: 2rem;
+  font-weight: 600;
 }
 
 .grid {
