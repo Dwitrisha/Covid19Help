@@ -16,6 +16,7 @@
   padding: 2rem;
 }
 .title {
+  margin-top: 2rem;
   color: #c5c6c7;
   font-family: "Century Gothic", sans-serif;
 }
@@ -48,4 +49,8 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
   }
+}
+
+.li{
+  font-size: x-large;
 }
